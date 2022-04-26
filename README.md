@@ -6,9 +6,11 @@
 
 Persistência de Dados: Padrão DAO
 
+
 Utilizaremos uma biblioteca de classes para, a
 partir da linguagem hospedeira, conectar e
 manipular bancos de dados relacionais:
+
 
 › Existe uma biblioteca de classes, disponível à linguagem de
 programação hospedeira, para as chamadas de banco de dados.
