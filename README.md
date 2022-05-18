@@ -63,8 +63,8 @@ percorrer o resultados de uma consulta um registro por vez etc.
 › Exemplo: para o Java, temos a biblioteca JDBC (Java Database
 Connectivity).
 
-- [Padrão DAO](https://github.com/F3RREIRA/DW2A4/tree/main/Atividades/A4)
-- [Biblioteca JDBC](https://github.com/F3RREIRA/DW2A4/tree/main/Atividades/A5)
+- [Padrão DAO](https://github.com/F3RREIRA/LP2A4/tree/main/ProjetoBanco)
+- [Biblioteca JDBC do PostgreSQL]()
 </p>
 
 
@@ -73,23 +73,19 @@ Connectivity).
 
 Os projetos foram desenvolvidos utilizando as seguintes tecnologias:
 
-- Java
-- Eclipse IDE for Developers
+- Linguagem Java
+- Eclipse IDE
+- PostgreSQL
 
 ## 🌎 Publicações
 
 Para acessar e testar as funcionalidades das páginas criadas, basta clicar na imagem correspondente:
 
 <p align="center">
-  <a href="https://f3rreira.github.io/DW2A4/Atividades/A4/">
-    <img alt="dev.finances" title="dev.finance$" src="github/preview1.png" width="250px" border-radius="3px">
+  <a href="https://github.com/F3RREIRA/LP2A4/tree/main/ProjetoBanco">
+    <img alt="teste" title="teste1" src="github/preview1.png" width="250px" border-radius="3px">
   </a>
-  <a href="https://f3rreira.github.io/DW2A4/Atividades/A5">
-    <img alt="Form.dev" title="Form.dev" src="github/preview2.png" width="250px">
-  </a>
-  <a href="https://f3rreira.github.io/DW2A4/Atividades/A6">
-    <img alt="Pesquisa.Covid" title="Pesquisa.Covid" src="github/preview3.png" width="250px">
-  </a>
+</p>
   
 ---
  <p align="center">
