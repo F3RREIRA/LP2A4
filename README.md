@@ -63,8 +63,8 @@ percorrer o resultados de uma consulta um registro por vez etc.
 › Exemplo: para o Java, temos a biblioteca JDBC (Java Database
 Connectivity).
 
-- [Padrão DAO](https://github.com/F3RREIRA/LP2A4/tree/main/ProjetoBanco)
-- [Biblioteca JDBC do PostgreSQL]()
+- [Projeto Banco](https://github.com/F3RREIRA/LP2A4/tree/main/ProjetoBanco)
+- [Biblioteca JDBC do PostgreSQL](https://jdbc.postgresql.org/)
 </p>
 
 
