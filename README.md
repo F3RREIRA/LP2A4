@@ -1,6 +1,6 @@
 <h1 align="center">
   <a href="https://spo.ifsp.edu.br/">
-     <img alt="Logo IFSP" title="Logo IFSP" src="github/logoIFSP.png" width="220px"/>
+     <img alt="Logo IFSP" title="Logo IFSP" src="DW2A4/github/logoIFSP.png" width="220px"/>
   </a>
  </h1>
 
@@ -40,11 +40,31 @@ A disciplina Linguagem de Programação II aprofunda os conhecimentos em uma lin
 
 ## 💻 Projetos
 
-Para acessar os repositórios com os códigos fonte dos projetos, basta clicar no link correspondente:
+<b>Sistema de Controle Bancário</b>
 
-- [dev.finace$](https://github.com/F3RREIRA/DW2A4/tree/main/Atividades/A4)
-- [Form.dev](https://github.com/F3RREIRA/DW2A4/tree/main/Atividades/A5)
-- [Pesquisa.Covid](https://github.com/F3RREIRA/DW2A4/tree/main/Atividades/A6)
+Persistência de Dados: Padrão DAO
+
+
+Utilizaremos uma biblioteca de classes para, a
+partir da linguagem hospedeira, conectar e
+manipular bancos de dados relacionais:
+
+
+› Existe uma biblioteca de classes, disponível à linguagem de
+programação hospedeira, para as chamadas de banco de dados.
+
+› Estruturada, em geral, a partir de uma API (Application Programming
+Interface) da linguagem hospedeira.
+
+› Métodos disponíveis para conectar em um banco de dados, preparar
+uma consulta, executar uma consulta, executar uma atualização,
+percorrer o resultados de uma consulta um registro por vez etc.
+
+› Exemplo: para o Java, temos a biblioteca JDBC (Java Database
+Connectivity).
+
+- [Padrão DAO](https://github.com/F3RREIRA/DW2A4/tree/main/Atividades/A4)
+- [Biblioteca JDBC](https://github.com/F3RREIRA/DW2A4/tree/main/Atividades/A5)
 </p>
 
 
@@ -53,9 +73,8 @@ Para acessar os repositórios com os códigos fonte dos projetos, basta clicar n
 
 Os projetos foram desenvolvidos utilizando as seguintes tecnologias:
 
-- HTML
-- CSS
-- JavaScript
+- Java
+- Eclipse IDE for Developers
 
 ## 🌎 Publicações
 
@@ -85,25 +104,4 @@ Para acessar e testar as funcionalidades das páginas criadas, basta clicar na i
 
 (Linguagem JAVA)
 
-# Projeto de Sistema de Controle Bancário
-
-Persistência de Dados: Padrão DAO
-
-
-Utilizaremos uma biblioteca de classes para, a
-partir da linguagem hospedeira, conectar e
-manipular bancos de dados relacionais:
-
-
-› Existe uma biblioteca de classes, disponível à linguagem de
-programação hospedeira, para as chamadas de banco de dados.
-
-› Estruturada, em geral, a partir de uma API (Application Programming
-Interface) da linguagem hospedeira.
-
-› Métodos disponíveis para conectar em um banco de dados, preparar
-uma consulta, executar uma consulta, executar uma atualização,
-percorrer o resultados de uma consulta um registro por vez etc.
-
-› Exemplo: para o Java, temos a biblioteca JDBC (Java Database
-Connectivity).
+# Projeto de 
