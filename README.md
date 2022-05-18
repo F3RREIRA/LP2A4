@@ -1,6 +1,6 @@
 <h1 align="center">
   <a href="https://spo.ifsp.edu.br/">
-     <img alt="Logo IFSP" title="Logo IFSP" src="DW2A4/github/logoIFSP.png" width="220px"/>
+     <img alt="Logo IFSP" title="Logo IFSP" src="https://github.com/F3RREIRA/DW2A4/blob/main/github/logoIFSP.png" width="220px"/>
   </a>
  </h1>
 
@@ -94,14 +94,6 @@ Para acessar e testar as funcionalidades das páginas criadas, basta clicar na i
 ---
  <p align="center">
  <a href="https://github.com/F3RREIRA">
-    <img alt="F3RREIRA" title="F3RREIRA" src="github/F3RREIRA.png" width="200px">
+    <img alt="F3RREIRA" title="F3RREIRA" src="https://github.com/F3RREIRA/DW2A4/blob/main/github/F3RREIRA.png" width="200px">
  </a>
  </p>
-
-
-
-# LP2A4 - Linguagem de Programação II
-
-(Linguagem JAVA)
-
-# Projeto de 
