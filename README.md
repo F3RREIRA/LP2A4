@@ -73,9 +73,9 @@ Connectivity).
 
 Os projetos foram desenvolvidos utilizando as seguintes tecnologias:
 
-- Linguagem Java
-- Eclipse IDE
-- PostgreSQL
+- Linguagem <a href="https://www.java.com/pt-BR/">Java</a> 
+- <a href="https://www.eclipse.org/">Eclipse IDE</a>
+- <a href="https://www.postgresql.org/">PostgreSQL</a>
 
 ## 🌎 Publicações
 
