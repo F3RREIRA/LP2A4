@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author IFSP
+ *
+ */
+module ExemploPadrao {
+}
