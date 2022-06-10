@@ -83,7 +83,7 @@ Para acessar e testar as funcionalidades das páginas criadas, basta clicar na i
 
 <p align="center">
   <a href="https://github.com/F3RREIRA/LP2A4/tree/main/ProjetoBanco">
-    <img alt="teste" title="teste1" src="github/preview1.png" width="250px" border-radius="3px">
+    <img alt="teste" title="teste1" src="#" width="250px" border-radius="3px">
   </a>
 </p>
   
